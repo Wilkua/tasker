@@ -1,0 +1,9 @@
+[package]
+name = "tasker"
+version = "0.1.0"
+edition = "2018"
+author = "William Drescer <wilkua2@gmail.com>"
+
+[dependencies]
+clap = "2.33.3"
+
